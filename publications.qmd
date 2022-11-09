@@ -1,0 +1,127 @@
+---
+title: "Publications"
+---
+
+## 2022
+
+##### **GRiMeDB: The global river database of methane concentrations and fluxes**
+
+|       Stanley EH, Loken LC, Casson NJ, Oliver SK, Sponseller, RA, Wallin M, 
+|       Zhang L, **Rocher-Ros G**. 
+|       
+|       Currently in review and available as a preprint in [*ESSD discussions*](https://essd.copernicus.org/preprints/essd-2022-346/)
+|       
+|       
+
+
+##### **Groundwater discharge as a driver of methane emissions from Arctic lakes**
+
+|       Olid C, Rodellas V, **Rocher-Ros G**, Garcia-Orellana J, Diego-Feliu M, 
+|       Alorda-Kleinglass A, Bastviken D, Karlsson J. 
+|       
+|       Published in [*Nature Communications*](https://www.nature.com/articles/s41467-022-31219-1)
+|       
+|       
+
+## 2021
+
+##### **Distinct concentration-discharge dynamics in temperate streams and rivers: CO~2~ exhibits chemostasis while CH~4~ exhibits source limitation due to temperature control**
+
+|       Aho KS, Fair JH, Hosen JD, Kyzivat ED, Logozzo L, **Rocher-Ros G**, Weber LC, 
+|       Yoon B, Raymond PA. 
+|       
+|       Published in [*Limnology and Oceanography*](https://doi.org/10.1002/lno.11906)
+|       
+|       
+
+##### **Global carbon dioxide efflux from rivers enhanced by high nocturnal emissions**
+
+|       Gomez-Gener L\* & **Rocher-Ros G**\*, Battin TJ, Cohen MJ, Dalmagro HJ, 
+|       Dinsmore KJ, Drake TW, Duvert C, Enrich-Prast A, Horgby Å, Johnson M, 
+|       Kirk L, Machado-Silva F, Marzolf N, McDowell MJ, McDowell WH, Miettinen H, 
+|       Ojala AK, Peter HM, Pumpanen J, Ran L, Riveros-Iregui D, Santos IR, Six J, 
+|       Stanley EH, Wallin M, White SA, Sponseller RA. (\*Shared first authorship). 
+|       
+|       Published in [*Nature Geoscience.*](https://www.nature.com/articles/s41561-021-00722-3).
+|       This article was highlighted by *Nature* as a [research highlight.](https://www.nature.com/articles/d41586-021-01032-9)
+|       
+|       
+
+##### **Carbon emission from Western Siberian Inland Waters**
+
+|       Karlsson J, Serikova S, Vorobyev S, **Rocher-Ros G**, Denfeld B, Pokrovsky OS. 
+|       
+|       Published in [*Nature Communications*](https://doi.org/10.1038/s41467-021-21054-1)
+|       
+|       
+
+##### **Nutrient availability shapes metabolic seasonal regimes in Arctic streams**
+
+|       Myrstener M, Gomez-Gener L, **Rocher-Ros G**, Giesler R, Sponseller RA. 
+|       
+|       Published in [*Limnology and Oceanography*](https://aslopubs.onlinelibrary.wiley.com/doi/full/10.1002/lno.11614)
+|       
+|       
+
+##### **Metabolism overrides photo-oxidation in CO~2~ dynamics of Arctic permafrost streams**
+
+|       **Rocher‐Ros G**, Harms TK, Sponseller RA, Väisänen M, Mörth C-M, Giesler R. 
+|       
+|       Published in [*Limnology and Oceanography*](https://aslopubs.onlinelibrary.wiley.com/doi/full/10.1002/lno.11564)
+|       
+|       
+
+## 2020
+
+##### **Emission of greenhouse gases from water tracks draining arctic hillslopes**
+
+|       Harms TK, **Rocher-Ros G**, Godsey SE. 
+|       
+|       Published in [*Journal of Geophysical Research-Biogeosciences*](https://doi.org/10.1029/2020JG005889)
+|       
+|       
+
+##### **Stream metabolism controls diel patterns and evasion of CO~2~ in Arctic streams**
+
+|       **Rocher‐Ros G**, Sponseller RA, Bergström A-K, Myrstener M, Giesler R. 
+|       
+|       Published in [*Global Change Biology*](https://doi.org/10.1111/gcb.14895)
+|       
+|       
+
+## 2019
+
+##### **Landscape process domains drive patterns of CO~2~ evasion from river networks**
+
+|       **Rocher‐Ros G**, Sponseller RA, Lidberg W, Mörth C-M, Giesler R. 
+|       
+|       Published in [*Limnology and Oceanography: Letters*](https://aslopubs.onlinelibrary.wiley.com/doi/full/10.1002/lol2.10108)
+|       
+|       
+
+## 2018
+
+##### **Lessons learned from monitoring the stable water isotopic variability in precipitation and streamflow across a snow-dominated sub-arctic catchment**
+
+|       Lyon SW, Ploum SW, van der Velde Y, **Rocher-Ros G**, Mörth C-M, Giesler R. 
+|       
+|       Published in [*Arctic, Antarctic and Alpine Research*](https://www.tandfonline.com/doi/full/10.1080/15230430.2018.1454778)
+|       
+|       
+
+##### **Persistent nitrogen limitation of stream biofilm communities along climate gradients in the arctic**
+
+|       Myrstener M, **Rocher‐Ros G**, Burrows RM, Bergström AK, Giesler R, Sponseller RA. 
+|       
+|       Published in [*Global Change Biology*](https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.14117)
+|       
+
+## 2017
+
+##### **Large lakes dominate CO~2~ evasion from lakes in an Arctic catchment**
+
+|       **Rocher‐Ros G**, Giesler R, Lundin E, Salimi S, Jonsson A, Karlsson J.
+|       
+|       Published in [*Geophysical Research Letters*](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2017GL076146)
+|       
+|       

@@ -1,0 +1,15 @@
+---
+title: "Science %>% Society"
+---
+
+Science needs to spill over to society, and we as scientists have to be proactive in it. Here my bits about this.
+
+## Summits of snow
+In 2022 I collaborated with the artist Eva Marklund, in modifying a set of her sculptures to showcase the effect of climate change in the world's mountains. Ten years before that, Eva installed 15-m long sculptures representing the snow cover of the highest peaks of each continent, in a busy transport hub in Umeå (Sweden). Together, we represented the projected ice cover remaining in each mountain under three different emission scenarios from IPCC. This is a visual way for people to grasp the dramatic effects of climate change, More details can be found in the website [www.summitsofsnow.com](https://www.summitsofsnow.com/).
+
+![Overview of the sculptures](images/sculptures_1.jpeg)
+
+![Example of Mount Elbrus](images/elbrus_installed.jpg)
+
+![Portrait of Gerard and Eva](images/portrait_gerard_eva.jpg)
+

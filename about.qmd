@@ -1,0 +1,12 @@
+---
+title: "About"
+---
+
+
+
+I made this website using Quarto, the thing that replaces Rmarkdown from Posit, the thing that replaces Rstudio.
+
+It is all pretty simple, I have the code for this website in github (link)-
+
+
+
