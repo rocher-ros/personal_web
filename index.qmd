@@ -18,7 +18,9 @@ about:
       href: https://github.com/rocher-ros
 ---
 
-I am a catchment ecologist, with a background in modelling and complex systems science. The broad aim of my research is to understand how the movement of energy and matter in landscapes shapes ecosystems in face of climate change, with water as the main vector of connectivity. To do this I combine empirical measurements in ecosystems with quantitative data analysis, modelling and machine learning tools. More specifically, I am interested in landscape patterns of carbon and nutrient storage and flux, the biogeochemical mechanisms that regulate these patterns within and across ecosystems, and how to translate these processes across spatial and temporal scales to understand their broader implications.
+I am a catchment ecologist, with a background in modelling and complex systems science. The broad aim of my research is to understand how the movement of energy and matter in landscapes shapes ecosystems in face of climate change, with water as the main vector of connectivity. To do this I combine empirical measurements in ecosystems with quantitative data analysis, modelling and machine learning tools. 
+
+More specifically, I am interested in landscape patterns of carbon and nutrient storage and flux, the biogeochemical mechanisms that regulate these patterns within and across ecosystems, and how to translate these processes across spatial and temporal scales to understand their broader implications.
 
 This website is pretty basic, where you can find my publications, some side projects as well as some software tools I have been using for my research.
 

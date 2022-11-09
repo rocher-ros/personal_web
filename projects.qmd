@@ -30,6 +30,7 @@ Timeline 2020 -- 2023
 
 ![Example of two adjacent streams in northern Norway, separated by a large-scale fence that causes high grazing intensity by reindeers in one of the sides](images/reisa.png)
 
+
 ## A reaction-transport model for Carbon processing in stream networks across land productivity gradients
 
 > Collaborators: Susana Bernal (CEAB-CSIC, Spain), Hjalmar Laudon (SLU, Sweden)
